@@ -93,11 +93,15 @@ Você poderá utilizar o else para executar um bloco de instrução caso a condi
 ## eventos e manipulação do dom.
 
 listas de eventos e manipulação do dom em javaScript são :
+## click:
+ ocorre quando um elemento é clicado.
 
-** click: ocorre quando um elemento é clicado.
-** mouseover: ocorre quando o ponteiro do mouse é posicionado sobre um elemento.
-** keyup: ocorre quando uma tecla é liberada após ser pressionada.
-**  submit: ocorre quando um formulário é enviado.
+## mouseover: 
+ocorre quando o ponteiro do mouse é posicionado sobre um elemento.
+## keyup:
+ocorre quando uma tecla é liberada após ser pressionada.
+## submit: 
+ocorre quando um formulário é enviado.
 
 
 

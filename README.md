@@ -1,6 +1,6 @@
-# tuturial-JavaScript01
+# tuturial JavaScript
 
-![imagem](URL da imagem)!![0_FXxXHe5eVfn1T4Rf](https://github.com/Joaooe/tuturial-JavaScript01/assets/149209354/10ba87e0-1a4b-46c8-b685-adebe497f030)
+![0_FXxXHe5eVfn1T4Rf](https://github.com/Joaooe/tuturial-JavaScript01/assets/149209354/10ba87e0-1a4b-46c8-b685-adebe497f030)
 
 
 

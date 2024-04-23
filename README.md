@@ -1,5 +1,9 @@
 # tuturial-JavaScript01
 
+![imagem](URL da imagem)!![0_FXxXHe5eVfn1T4Rf](https://github.com/Joaooe/tuturial-JavaScript01/assets/149209354/10ba87e0-1a4b-46c8-b685-adebe497f030)
+
+
+
 ## o que iremos aprender?
 O JavaScript, ou JS, como muitos chamam carinhosamente, é uma linguagem de programação interpretada de alto nível que, segundo a Pesquisa de Desenvolvedores do Stack Overflow de 2022, é a mais popular no mundo. Isso se deve principalmente ao fato de que o JavaScript é a linguagem padrão que os navegadores interpretam e que com HTML (“HiperText Markup Language” ou linguagem de Marcação de HiperTexto, utilizada nos navegadores) e CSS (“Cascading Style Sheets”, folhas de estilo em cascata, em Português) formam a base de toda a Web.
 
